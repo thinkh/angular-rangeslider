@@ -1,6 +1,6 @@
 {
 	"name": "angular-rangeslider",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"main": "./angular.rangeSlider.js",
 	"dependencies": {
 		"angular": "^1.2.6",
