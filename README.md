@@ -1,6 +1,6 @@
 angular-rangeslider
 ===================
-_Current version: 0.0.3_
+_Current version: 0.0.4_
 
 Angular RangeSlider is a directive that creates an interactive slider that allows a user to change model values.
 
@@ -8,7 +8,7 @@ It has been styled to match form elements styled by [Twitter's Bootstrap CSS fra
 
 #### Requirements
 
-- Angular (v1.1.4+)
+- Angular (v1.2.6+)
 - jQuery (v1.7+)
 
 Quick example
